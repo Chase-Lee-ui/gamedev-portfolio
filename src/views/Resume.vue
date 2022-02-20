@@ -3,7 +3,7 @@
     <h1>Resume</h1>
 
     <div class="paragraph">
-      I'm <strong>John Matrix</strong>, a former Delta Force operative with lots of experience, lots of training and huge muscles.
+      I'm <strong>Chase Lee</strong>, a current senior at the University of Hawai'i at Manoa.
       <br />After graduating from kindergarten, I've been enrolled in the army for 25 years, where I learned to destroy things in an amazing number of ways.
       <br />I joined the Delta Force because I thought it was Greek lessons, but I quickly adapted to this unexpected environment and became a key element.
       <br />I love teamwork, but I can also go in solo depending on the mission requirements.
@@ -15,7 +15,6 @@
 
       <div style="margin-top:20px; margin-bottom:20px;">
         <a class="download-link" href="d/resume-en.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF 🇬🇧</a>
-        <a class="download-link" href="d/cv-fr.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Télécharger en PDF 🇫🇷</a>
         <div style="clear:both"></div>
       </div>
     </div>
@@ -28,26 +27,33 @@
     <div class="full-content">
       <h2>Work experience</h2>
 
-      <h3>Operation Classified - Delta Force</h3>
-      <h4>2018-2019</h4>
+      <h3>Unity Software Engineer - KBR</h3>
+      <h4>June 2021 - Present</h4>
 
-      <div>It's classified so I can't speak about it.</div>
+      <div>● Constructed realistic drone flight simulation through Unity</div>
+      <div>● Wrote several C# scripts for drone simulation, simulating camera aperture and environment</div>
+      <div>● Reinforced drone detection models by producing simulation data for machine learning</div>
 
-      <div class="tech-stack">Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
+      <div class="tech-stack">Unity, Internship, Software Engineering, KANBAN, AWS, C#</div>
 
-      <h3>Operation Classified - Delta Force</h3>
-      <h4>2015-2017</h4>
+      <h3>Game Jam Competitions - Game Dev Club</h3>
+      <h4>September 2020 - November 2021</h4>
 
-      <div>It's classified so I can't speak about it.</div>
+      <div>● Developed a fully functioning games through Unity within a two week time limit with my peers</div>
+      <div>● Directed my peers through the Unity process, moderated their work and mediated conversation about the games</div>
+      <div>● Evaluated criticism and adjusted the game accordingly to improve user experience</div>
 
-      <div class="tech-stack">Even more Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
+      <div class="tech-stack">Teamwork, Github, Version Control, C#</div>
 
       <h3>Operation Classified - Delta Force</h3>
       <h4>2012-2015</h4>
 
-      <div>It's classified so I can't speak about it.</div>
+      <div>Software Engineering - Zeus</div>
 
-      <div class="tech-stack">Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
+      <div>● Built a program that utilizes MongoDB and changes the data of medication and supplies in real time</div>
+      <div>● Addressed concerns with the customer and made changes based on customer critiques</div>
+      <div>● Developed using Javascript, CSS, HTML, and Meteor</div>
+      <div class="tech-stack">Teamwork, Github, Version Control, Javascript, HTML</div>
 
       <h2>Skills</h2>
 
@@ -73,17 +79,40 @@
 
       <h2>Education</h2>
 
-      <h3>Kindergarten - 1985</h3>
-      <h4>Kindergarten degree</h4>
-      <div>Specialty in bullying and fighting (58 wins, 58 K-O, 0 losses)</div>
+      <h3>University of Hawai’i at Manoa</h3>
+      <h4>Bachelor of Science in Computer Science</h4>
+      <h4>Relevant Courses</h4>
+      <div>● ICS 212: Scripting or C/C++ - Fundamentals of C/C++ and their applications.</div>
+      <div>● ICS 311: Algorithms - Improving knowledge of data structures and algorithms.</div>
+      <div>● ICS 314: Software Engineering I - Utilizing Javascript, CSS, and HTML to create sites that serve a function.</div>
+      <div>● ICS 321: Database Systems - Understanding the fundamentals of SQL and organizing databases.</div>
+      <div>● ICS 485: Video Game Design - Study gamification and the Unity Engine in order to understand how to create games and how games are made.</div>
+      <div>● ICS 496: Capstone Project - Student-driven project utilizing Azure Kinects and the Unity Engine to track poses.</div>
 
-      <h2>Languages</h2>
+      <h2>Extra-curriculars</h2>
 
-      <h3>American</h3>
-      <div>Basic knowledge but I know lots of one-liners</div>
+      <h3>Game Dev Club at UHM - President</h3>
+      <h4>August 2020 - Present</h4>
 
-      <h3>That's it</h3>
-      <div>Who needs another language when you speak American?</div>
+      <div>● Led group discussions in multiple topics of game design and organized game design events.</div>
+      <div>● Prepared Unity workshops and directed members how to use Unity and later collaborated using Github</div>
+      <div>● Organized club participation in game jams and held meetings to design various games</div>
+      <div class="tech-stack">Teamwork, Github, Version Control, Unity, C#</div>
+
+      <h3>International Student Association - Public Relations Officer</h3>
+      <h4>August 2021 - December 2021</h4>
+
+      <div>● Organized events and gathered students across the entire UH system to join.</div>
+      <div>● Discussed with peers and maintained healthy and professional relationships with other clubs.</div>
+      <div class="tech-stack">Leadership, Communication, Teamwork</div>
+
+      <h3>UH Black - Sub Player</h3>
+      <h4>August 2020 - Present</h4>
+
+      <div>● Players </div>
+      <div>● Prepared Unity workshops and directed members how to use Unity and later collaborated using Github</div>
+      <div>● Organized club participation in game jams and held meetings to design various games</div>
+      <div class="tech-stack">Communcation, Games, Teamwork</div>
 
 
       <h2>Besides...</h2>
