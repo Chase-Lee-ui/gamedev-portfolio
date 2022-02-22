@@ -2,8 +2,10 @@ import ProjectData from '@/data/ProjectData.ts'
 
 export default [
     new ProjectData("project-6", "Sultans Of Sing", "img/projects/project-6-icon.png", `
+    
+    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drew Blood Screenshot" />
     <div class="paragraph">
-      <strong>Sultans Of Sing</strong> is a thing of beauty that I am so proud of. It's available on Windows Store because why not.
+      <strong>Coastar</strong> was meant to be an application to be used by one of the organizations that were participating in the Hawaii Annual Coding Challenge. My team and I participated in the NIC Hawaii – Hawaii Marine Animal Response (HMAR) Sighting & Reporting App challenge, where we needed to create an app that would streamline the process for people who are around different parts of the island help identify animals that are in distress.
       <br/>Image by <a href="https://www.pexels.com/fr-fr/@aldoalz" target="blank">Aldo Picaso</a>.
             </div>
             <div class="paragraph center">

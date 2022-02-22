@@ -8,13 +8,13 @@
       <br />I joined the Delta Force because I thought it was Greek lessons, but I quickly adapted to this unexpected environment and became a key element.
       <br />I love teamwork, but I can also go in solo depending on the mission requirements.
       <br />
-      <br />Right now I'm trying to find inner peace after I've read some personal development books. I'm looking for a monk job so if you have any opportunity feel free to 
+      <br />If you have any opportunity that I seem to fit feel free to
       <router-link to="/contact">contact me</router-link>.
       <br />
-      <br />Besides war, I'm passionate about firearms, martial arts, explosions, push-ups and flowers.
+      <br />Besides Game Dev, I also have some gaming hobbies such as being on a League of Legends team and playing Pump It Up
 
       <div style="margin-top:20px; margin-bottom:20px;">
-        <a class="download-link" href="d/resume-en.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF 🇬🇧</a>
+        <a class="download-link" href="d/Chase_Lee_Resume.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF 🇬🇧</a>
         <div style="clear:both"></div>
       </div>
     </div>
@@ -37,6 +37,7 @@
       <div class="tech-stack">Unity, Internship, Software Engineering, KANBAN, AWS, C#</div>
 
       <h3>Game Jam Competitions - Game Dev Club</h3>
+      <a href="https://snekuchan.itch.io/" target="_blank">https://snekuchan.itch.io/</a>
       <h4>September 2020 - November 2021</h4>
 
       <div>● Developed a fully functioning games through Unity within a two week time limit with my peers</div>
@@ -45,37 +46,35 @@
 
       <div class="tech-stack">Teamwork, Github, Version Control, C#</div>
 
-      <h3>Operation Classified - Delta Force</h3>
-      <h4>2012-2015</h4>
-
-      <div>Software Engineering - Zeus</div>
+      <h3>Software Engineering - Zeus</h3>
+      <h4>May 2021 - December 2021</h4>
 
       <div>● Built a program that utilizes MongoDB and changes the data of medication and supplies in real time</div>
       <div>● Addressed concerns with the customer and made changes based on customer critiques</div>
       <div>● Developed using Javascript, CSS, HTML, and Meteor</div>
       <div class="tech-stack">Teamwork, Github, Version Control, Javascript, HTML</div>
 
-      <h2>Skills</h2>
+<!--      <h2>Skills</h2>-->
 
-      <div class="skill-set">
-        <h3>Lethal</h3>
-        <SkillRate name="Handguns" :rate="5" />
-        <SkillRate name="Rifles" :rate="5" />
-        <SkillRate name="Shotguns" :rate="5" />
-        <SkillRate name="Machineguns" :rate="5" />
-        <SkillRate name="Missile launchers" :rate="5" />
-        <SkillRate name="Knives" :rate="5" />
-        <SkillRate name="Hand to hand combat" :rate="5" />
-      </div>
+<!--      <div class="skill-set">-->
+<!--        <h3>Lethal</h3>-->
+<!--        <SkillRate name="Handguns" :rate="5" />-->
+<!--        <SkillRate name="Rifles" :rate="5" />-->
+<!--        <SkillRate name="Shotguns" :rate="5" />-->
+<!--        <SkillRate name="Machineguns" :rate="5" />-->
+<!--        <SkillRate name="Missile launchers" :rate="5" />-->
+<!--        <SkillRate name="Knives" :rate="5" />-->
+<!--        <SkillRate name="Hand to hand combat" :rate="5" />-->
+<!--      </div>-->
 
-      <div class="skill-set">
-        <h3>Non-lethal</h3>
-        <SkillRate name="Sneaking" :rate="1" />
-        <SkillRate name="Negotiation" :rate="1" />
-        <SkillRate name="Seduction" :rate="1" />
-        <SkillRate name="Sense of humor" :rate="2" />
-      </div>
-      <div style="clear:both" />
+<!--      <div class="skill-set">-->
+<!--        <h3>Non-lethal</h3>-->
+<!--        <SkillRate name="Sneaking" :rate="1" />-->
+<!--        <SkillRate name="Negotiation" :rate="1" />-->
+<!--        <SkillRate name="Seduction" :rate="1" />-->
+<!--        <SkillRate name="Sense of humor" :rate="2" />-->
+<!--      </div>-->
+<!--      <div style="clear:both" />-->
 
       <h2>Education</h2>
 
@@ -115,21 +114,21 @@
       <div class="tech-stack">Communcation, Games, Teamwork</div>
 
 
-      <h2>Besides...</h2>
-      <div>
-        <h3>I ❤️ Violence</h3>
-        <div>I find it really soothing to just shoot at bad guys</div>
+<!--      <h2>Besides...</h2>-->
+<!--      <div>-->
+<!--        <h3>I ❤️ Violence</h3>-->
+<!--        <div>I find it really soothing to just shoot at bad guys</div>-->
 
-        <h3>I 🧡 Sports</h3>
-        <div>I used to be thin but then I ingested 10 kilos of steroids and proteins a day while doing 1000 push-ups.</div>
+<!--        <h3>I 🧡 Sports</h3>-->
+<!--        <div>I used to be thin but then I ingested 10 kilos of steroids and proteins a day while doing 1000 push-ups.</div>-->
 
-        <h3>I 💛 Politics</h3>
-        <div>I hope I can have a career here someday but I might have temper issues.</div>
+<!--        <h3>I 💛 Politics</h3>-->
+<!--        <div>I hope I can have a career here someday but I might have temper issues.</div>-->
 
-        <h3>I 💚 Flowers</h3>
-        <div>Especially the big ones, with the trunk and leaves.</div>
+<!--        <h3>I 💚 Flowers</h3>-->
+<!--        <div>Especially the big ones, with the trunk and leaves.</div>-->
 
-      </div>
+<!--      </div>-->
     </div>
   </div>
 </template>
@@ -140,9 +139,9 @@ import SkillRate from "@/components/SkillRate.vue";
 
 export default Vue.extend({
   name: "Resume",
-  components: {
-    SkillRate,
-  },
+  // components: {
+  //   SkillRate,
+  // },
 });
 </script>
 
